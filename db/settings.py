@@ -6,7 +6,7 @@ MQ_PASSWORD = 'root'
 MQ_COLL = 'lottery'
 
 # mongo
-MG_HOST = '108.61.203.110'
+MG_HOST = 'loccalhost'
 MG_PORT = 29999
 MG_PASSWORD = None
 MG_COLL = 'lottery'
